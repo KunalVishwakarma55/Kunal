@@ -1,0 +1,43 @@
+Date : 2025-02-24 20:13:31
+Directory : c:\Users\Ravi\Desktop\College_project
+Total : 13 files,  3185 codes, 178 comments, 530 blanks, all 3893 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Python           |         11 |      2,979 |        178 |        530 |      3,687 |
+| pip requirements |          1 |        199 |          0 |          0 |        199 |
+| Markdown         |          1 |          7 |          0 |          0 |          7 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         13 |      3,185 |        178 |        530 |      3,893 |
+| . (Files)                                                             |          3 |        216 |          0 |          2 |        218 |
+| ui                                                                    |         10 |      2,969 |        178 |        528 |      3,675 |
+| ui (Files)                                                            |          7 |      1,573 |         93 |        335 |      2,001 |
+| ui\lessons                                                            |          3 |      1,396 |         85 |        193 |      1,674 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                              | language         | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\Ravi\Desktop\College_project\README.md                       | Markdown         |          7 |          0 |          0 |          7 |
+| c:\Users\Ravi\Desktop\College_project\main.py                         | Python           |         10 |          0 |          2 |         12 |
+| c:\Users\Ravi\Desktop\College_project\requirements.txt                | pip requirements |        199 |          0 |          0 |        199 |
+| c:\Users\Ravi\Desktop\College_project\ui\Home.py                      | Python           |        129 |          1 |         30 |        160 |
+| c:\Users\Ravi\Desktop\College_project\ui\MainWindow.py                | Python           |         97 |         14 |         23 |        134 |
+| c:\Users\Ravi\Desktop\College_project\ui\STT.py                       | Python           |        330 |         12 |         61 |        403 |
+| c:\Users\Ravi\Desktop\College_project\ui\TTS.py                       | Python           |        611 |         47 |        141 |        799 |
+| c:\Users\Ravi\Desktop\College_project\ui\learning.py                  | Python           |        195 |         13 |         34 |        242 |
+| c:\Users\Ravi\Desktop\College_project\ui\lesson_ui.py                 | Python           |        168 |          5 |         35 |        208 |
+| c:\Users\Ravi\Desktop\College_project\ui\lessons\advanced_mode.py     | Python           |         12 |          0 |          5 |         17 |
+| c:\Users\Ravi\Desktop\College_project\ui\lessons\beginner_mode.py     | Python           |        544 |         30 |         63 |        637 |
+| c:\Users\Ravi\Desktop\College_project\ui\lessons\intermediate_mode.py | Python           |        840 |         55 |        125 |      1,020 |
+| c:\Users\Ravi\Desktop\College_project\ui\loading_spinner.py           | Python           |         43 |          1 |         11 |         55 |
+| Total                                                                 |                  |      3,185 |        178 |        530 |      3,893 |
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
